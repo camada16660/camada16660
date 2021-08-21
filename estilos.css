@@ -12,3 +12,10 @@ h1{
     font-size: 8em;
     color: darkred;
 }
+
+h2{
+    text-align: right;
+    color: darkviolet;
+    font-size: 5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
